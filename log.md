@@ -1,30 +1,56 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day XXX: Smarch XX, 20XX (Template)
+##### ()
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [example](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+#### Discovery Items
 
 
-### Day 1: June 27, Monday
+**Thoughts:** 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Links of interest:** [example](http://www.example.com)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Links to worked items:**
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+##Goals:
+Project Euler: 
+	Goal: Attempt/solve 500 problems (Max 1 hour per problem) 
+
+Free Code Camp:
+	Goal: 	Responsive Web Design Cert	.5/8
+			Javascript Algorithms and Data Structures Cert	0/10
+			Front End Libraries Cert	0/7
+			Data Visualization Cert	0/3
+			
+Practice Python:
+	Goal: Finish Practice Python Problems (36)
+	20/36
+
+###Read and Practice Application of Books
+Game Programming Patterns
+Design Patterns
+Clean Architecture
+
+
+### Day 1: March 20, 2019
+##### ()
+
+**Today's Progress:** 
+Project Euler: 18/500 (+0)
+	
+Free Code Camp:
+Responsive Web Design Cert	1.9/8 (+1.9)
+
+Worked mostly on setting up this 100 days of coding, working hard on sprinting through basic web development stuff on Free Code Camp, but keeping an eye out for stuff I didn't know
+
+	
+### Day 2: March 21, 2019
+
+
