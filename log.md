@@ -1,25 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day XXX: Smarch XX, 20XX (Template)
-##### ()
-
-**Today's Progress:** 
-
-**Thoughts:** 
-
-**Link to work:** [example](http://www.example.com)
-
-#### Discovery Items
-
-
-**Thoughts:** 
-
-**Links of interest:** [example](http://www.example.com)
-
-**Links to worked items:**
-
-
-##Goals:
+## Goals:
 Project Euler: 
 	Goal: Attempt/solve 500 problems (Max 1 hour per problem) 
 
@@ -33,7 +14,7 @@ Practice Python:
 	Goal: Finish Practice Python Problems (36)
 	20/36
 
-###Read and Practice Application of Books
+### Read and Practice Application of Books
 Game Programming Patterns
 Design Patterns
 Clean Architecture
@@ -54,3 +35,24 @@ Worked mostly on setting up this 100 days of coding, working hard on sprinting t
 ### Day 2: March 21, 2019
 
 
+
+---
+
+
+### Day XXX: Smarch XX, 20XX (Template)
+##### ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** [example](http://www.example.com)
+
+#### Discovery Items
+
+
+**Thoughts:** 
+
+**Links of interest:** [example](http://www.example.com)
+
+**Links to worked items:**
